@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	puts("Hello world");
-	return 0;
+    puts("Hello from git-managed world!");
+    return 0;
 }
